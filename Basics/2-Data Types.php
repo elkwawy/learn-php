@@ -31,7 +31,7 @@ echo "<br>";
 // Object 
 $person = new stdClass();
 $person->name = "John Doe";
-$person->age = 30;Dumps information about a variable
+$person->age = 30;
 var_dump($person);
 echo "<br>";
 

@@ -1,9 +1,6 @@
 <?php
-echo "Order 1: Pizza<br>";
-echo "Order 2: Pasta<br>";
-echo "Order 3: Burger<br>";
-
-
-
-
+print "AMK";
+echo "AMK";
+print 5+4;
+echo 5+4;
 ?>
